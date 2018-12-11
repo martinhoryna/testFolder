@@ -7,3 +7,6 @@
 
 think more about the structure of css
 ? watch some vids about css - theory
+
+OPAKOVAT
+classy, container, prirozeny tok dokumentu, float, claener, radkovy a blokovy element
