@@ -4,3 +4,6 @@
 
 
 !!!git status!!!
+
+think more about the structure of css
+? watch some vids about css - theory
