@@ -1,3 +1,2 @@
 - neudelal jsem <li> u tech dvou divu
-- lomena v <nav>
 - nemel jsem bile logo bause na footer
